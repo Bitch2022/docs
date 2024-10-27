@@ -1,4 +1,4 @@
-## Chatwoot Handbook
+delete## Chatwoot Handbook
 
 This repository contains the documentation for self-hosted installations, features in the product and a complete guide on how we run the organization.
 
